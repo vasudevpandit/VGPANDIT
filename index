@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<header>
+  <nav>
+    <strong>V.G. Pandit – 100 Years</strong>
+    <div>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Him</a>
+      <a href="values.html">His Values</a>
+      <a href="journey.html">Life Journey</a>
+      <a href="ceremony.html">Ceremony</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="wishes.html">Wishes</a>
+    </div>
+  </nav>
+</header>
+<title>Centenary Celebration | V.G. Pandit</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<!-- NAVIGATION -->
+<!-- (paste nav here) -->
+
+<section>
+  <div class="container card">
+    <h1 class="gold">🌸 Centenary Celebration 🌸</h1>
+    <p>
+      Honouring <strong>Shri Vasudev Ganapatrao Pandit</strong> —
+      a century of wisdom, values, and blessings that shaped generations.
+    </p>
+    <img src="assets/images/ajoba.jpg" class="responsive">
+  </div>
+</section>
+
+<footer>
+  With love, respect & gratitude ❤️
+</footer>
+
+</body>
+</html>
